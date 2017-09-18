@@ -1,3 +1,0 @@
-# Webhooks
-Discord Webhooks
-Hello
